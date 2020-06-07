@@ -1,4 +1,4 @@
-Bu program size istediğiniz zaman aralığında Aks sınavında çıkabilecek olan mevzuattaki sayısal ifade bilgilerini uyarı olarak gösterir.
+Bu program size istediğiniz zaman aralığında Aks sınavında çıkabilecek olan mevzuattaki sayısal ifade bilgilerini uyarı olarak çıkarır.
 #Program sadece Windows 10'da çalışmaktadır.
 
 
