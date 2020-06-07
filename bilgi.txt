@@ -1,0 +1,309 @@
+15 yaþ: Bu yaþta olan meslek ve sanat okulu bitiren biri devlet memuru olabilir. ( kaza-i rüþt olmak þartýyla)
+En geç 1 ay içinde: Asil devlet memurluðuna atandýktan sonra en geç 1 ay içinde kurumlarca düzenlenecek merasimde yetkili amir huzurunda yemin ettirilir ve yemin belgesi imzalanir.
+%3: Bir kurumun çalýþtýrmasý gereken engelli yüzdesi.
+15 gün: Eþleri, reþit olmayan veya mahcur olan çocuklarý yasaklanan faaliyetlerde bulunan memurlarý bunu bildirme süresi
+3 yýl: Adaylýkta iliþkisi kesilenlerin memur olamayacaklarý süre.
+1 yýl: Eðer göreve baþlama sürecinde, mazeretsiz olarak belirlenen günlerde göreve baþlamazsa memur olamayacaðý süre.
+2 ay: Göreve baþlama sürecinde zorlayýcý nedenlerle kiþi bu süreyi aþarsa atama yetkili amir iptal eder.
+10 gün: Yeni göreve eðer þehir dýþýndan geliyorsa 15 günün dýþýnda aylýksýz olarak verilecek süre. Hala gelmezse çekilmiþ sayýlýr.
+10 yýl: Bakanýn onayý ile yabancý memleketlerin resmi kuruluþunda çalýþanlara verilecek aylýksýz izin süresi.
+21 yýl: Bakanýn onayý ile uluslararasý resmi kuruluþta çalýþanlara verilecek aylýksýz izin süresi.
+3 yýl: Uluslararasý veya yabancý memleketlerde görev yapanlara verilen aylýksýz izni bakanýn onama süresi. 3 yýlda bir onay gerekir.
+3 aydan fazla: Vekil memura 3 aydan fazla devam eden süre için vekalet aylýðý ödenir.
+30 gün: Askerden dönenlerin azami göreve baþlama süresi
+10 gün: Kiþiyi memurluktan çekilmiþ gibi gösterecek özürsüz gelmeme süresi
+1 yýl: Çekilmek isteyen memur isteðinin kabuitine ve yerine biri gelene kadar görevine devam eder bir ay boyunca gelmezse yerine gelecek kiþi üstüne haber vererek görevi býrakabilir. Buna uygun görevi býrakýrsa 1 yýl devlet memurluguna alýnamaz.
+3 yýl: Devir teslim yapmadan ayrýlanlar 3 yýl geçmeden devlet memuru olamaz.
+40 saat. Memurun haftalýk en fazla çalýþma saati
+24 hafta: Kadýn memura doðumdan önce gece nöbeti verilemeyecek süre. Bu haftadan itibaren verilmez.
+2 yýl: Kadýn memura doðumdan sonra gece nöbeti verilemeyecek süre
+2 defa: Bir 5 yýl görev yapmýþ bir memurun kendi isteði ile memurluktan en fazla çekilme sayýsý
+20 gün: Hizmet 1 yýldan 10 yýla kadar (10. Yýl dahil) olan memurun kullanacaðý yýllýk izin süresi
+30 gün: Hizmeti 10 yýldan fazla olan memurun kullanacaðý yýllýk izin süresi.
+10 gün: Babalýk izni
+7 gün: Evlilik ve ölüm izinleri
+1 ay: Radyo aktif ýþýnlarla çalýþan memura yýllýk verilecek saðlýk izni süresi.
+10 gün: Çocuðu % 70 engelli olan memurun yýllýk izin alabileceði süre
+10 gün: Mazeret izni
+Doðumdan Önce 8 hafta - Sonra 8 hafta analýk izni verilir.
+2 hafta: Eðer doðacak bebek ikiz vb. ise doðumdan önce verilecek annelik iznine eklenecek süre.
+3 hafta: Raporla birlikte kadýn memur doðuma 3 hafta kalýncaya kadar çalýþabilir.
+3 saat: Kadýn memura için ilk altý ay için verilecek günlük süt izni süresi.
+1.5 saat: Kadýn memura ikinci altý ay günlük verilecek süt izni süresi.
+18 ay: Kanser verem ve akýl hastalýðý gibi uzun süreli hastalara verilecek izin süresi. Hastalýk geçmezse 1 katýna uzatýlýr.
+12 ay: Diðer hastalýklar halinde verilecek izin süresi. Hastalýk geçmezse 1 katma uzatýlýr
+3 ay: Memurun bakmakla yükümlü olduðu kiþileri raporla tescillemesi ile verilecek izin süresi. 1 katma kadar uzatýlabilir.
+24 ay: Doðum yapan memura analýk izni süresinin bitiminden itibaren eþi doðum yapan memura doðumdan itibaren aylýksýz izin verilebilir.
+10 gün: Aylýksýz izin ve mazeret izinleri bitenleri dönmediði taktirde görevden çekilmiþ sayýlacaklarý süre.
+5 hizmet yýlý: Memur 5 hizmet yýlýný doldurduysa isteði halinde en fazla 2 defa kullanýlmak üzere toplam 1 yýla kadar aylýksýz izin verilebilir.
+%200: Memura verilebilecek en üst aylýk ödül.
+%10: Baþarý ödülü verileceklerin kurumun kiþi sayýsýndan fazla olamayacaðý oran.
+%0 20: Baþarý ödülü verilecekler MEB, Gümrük, Emniyette ise kurumdaki kiþi sayýsýna göre geçilemeyecek oran.
+1/30 -1/8: Aylýktan kesme cezasýnýn tutar aralýðý
+1-3 yýl: Kademe ilerlemesinin durdurulma cezasý
+1-2 gün: özürsüz bu kadar süre göreve gelinmezse aylýktan kesme cezasý alýnýr.
+3 - 9 gün: özürsüz bu kadar süre göreve gelinmezse kademe ilerlemesinin durdurulmasý cezasý alýnýr.
+20 gün: Özürsüz toplam bu kadar süre göreve gelinmezse memurluktan çýkarýlma cezasý alýnýr.
+1/2-1/4: Kiþi son kademe ve derecede ise kademe ilerlemesinin durdurulmasý cezasý verilemeyeceðinden aylýðýndan kesilecek tutar. Tekerrürde göreve son verilir.
+15 gün: Eðer ceza ret yerse atama yetkili amirlerin baþka bir disiplin cezasý verebileceði süre.
+1 ay: Uyarma - kýnama aylýktan kesme - kademe ilerlemesi cezalarý verilmezse bu süre sonunda zaman aþýmýna uðrar.
+6 ay: Memurluktan çýkartma cezasý bu sürede verilmez se zaman aþýmýna uðrar.
+15 gün: Disiplin amirlerinin uyarma kýnama ve aylýktan kesme cezalarýnýn soruþturmanýn tamamlandýðý günden sonra karar süresi.
+30 gün: Disiplin kurulunun soruþturma sonucu eline ulaþtýktan sonra kademe ilerlemesinin durdurulmasý cezasý için karar vereceði süre
+6 ay: Memurluktan çýkarma cezasýnýn karar süresi.
+7 gün: Memurlarýn kendilerini savunma süresi. Eðer vermezlerse vazgeçmiþ sayýlýr.
+5 yýl: Uyarma ve Kýnama cezalarýnýn özlük dosyasýndan silinme süreleri
+10 yýl Aylýktan kesme ve kademe ilerlemesinin durdurulmasý cezalarýnýn özlük dosyasýndan silinme süreleri
+5 yýl: Aylýktan kesme cezasý alanlarýn bir üst kademeye atanamayacaklarý süre.
+10 yýl: Kademe ilerlemesinin durdurulmasý cezasý alanlarýn bir üst kademeye atanamayacaklarý süre.
+7 gün: Uyarma Kýnama ve aylýktan kesme cezalarýna karsý disiplin kuruluna - Kademe ilerlemesinin durdurulmasý cezasýna karþý yüksek disiplin kuruluna itiraz etme süreleri.
+30 gün: itiraza karþý kurumun karar süresi
+10 gün: Görevden uzaklaþtýrma için soruþturmanýn baþlayacaðý süre
+2/3: Görevinden uzaklaþtýrýlan memura maaþýndan ödenecek tutar.
+3 ay: Görevden uzaklaþtýrýlan memurun uzaklaþtýrabileceði en uzun süre.
+Her iki ayda 1: Görevinde uzaklaþtýnlanlann görevine dönüp dönmemesi ile ilgili yetkili amir karar verir ve ilgiliye yazý ile teblið eder.
+140: Gündüz süresi için Ders baþý ödenecek gösterge rakamý katsayýsý
+150: Saat 18:00'den sonra baþlayan ders için ders baþý için ödenecek gösterge rakamý katsayýsý
+% 25: Özel eðitime muhtaç ve ceza evlerinde görevlilere fazlasýyla ödenecek oran
+% 100: Örgün ve yaygýn eðitim destekleme kurslarýnda görevli öðretmenlere fazla ödenecek ders tutarý.
+%25 eksik: Bir takvim yýlý içinde hastalýk izin süresi toplamý 7 günü aþarsa aþan sürelere isabet eden zam ve tazminatlar %25 eksik ödenir.
+Her 8 saat için bir gün izin: Fazla çalýþmada memura verilecek izin süresi. Bu þekilde verilen iznin en çok 10 günü yýllýk izinle birleþtirilip yýl içinde kullanýlabilir.
+3 ay: Vekalet eden vekil bu süreden sonra vekalet ücreti alýr.
+1 ay: Çekilmek isteyen memurun bu süre zarfýnda yerine biri gelmediði taktirde üstüne haber vererek ayrýlabilir. Bu kurala uymadan çekilen 1 yýl sonra gelebilir.
+3 yýl: Devir teslim yapýlmadan çekilen memur 3 yýl geçmeden yeniden memur olamaz.
+15 gün: Eþleri ve çocuklarý için mal bildirimi yapma süresi
+30 gün: Normal ön inceleme süresi
+15 gün: Normal ön inceleme sürecinin bir defaya mahsus uzatýlabileceði süre.
+10 gün: Karara itiraz süresi
+3 ay: Kararýn verileceði en geç süre
+6 -14 yaþ: Mecburi ilköðretim çaðý.
+72 ay: O yýlýn 31 aralýk tarihinde 72 Ayýný dolduran çocuklarýn kaydý ilkokul birinci sýnýfa yapýlýr.
+Ýlköðretimin son ders yýlýnýn ikinci yarýsýnda: Yönlendirme rehberlik servisince yapýlýr.
+Kariyer basamaklarýnda yükselmede;%10: Kýdem, %20 eðitim, %10 sicil, %10 etkinlik ve %50 sýnav etkilidir.
+15: Bakanlýklarda 15 i geçmemek üzere bakan müþaviri istihdam edilebilir.
+22 tane: Hizmet birimlerinin sayýsý
+1 baþkan -10 üye: Talim terbiye kurulunu oluþturan kiþiler.
+4 yýl: Talim terbiye kuruluna seçilenlerin görev süresi
+3 defa: Görev süresi biten talim terbiye kurulu üyelerinin 1+1+1 yýl olmak üzere görev sürelerinin uzatýlacaðý sayý
+1 yýl: Yurt dýþý teþkilatýnda görev yapabilmek için milli eðitim bünyesinde çalýþýlmasý gereken en az süre.
+3 yýl: Yurtdýþý görev süresi. 1 katma kadar yükseltilebilir.
+2 yýl: Yurt dýþý görevinden dönenlerin tekrar yurt dýþýna gönderilebilmesi için geçmesi gereken azami süre y
+3 yýl: Atanýlan yerlerde kalma zorunluluðu olan süre
+8 yýl: Maarif müfettiþi olabilmek için yapýlmasý gereken öðretmenlik süresi.
+2 kez: Maarif müfettiþliði sýnavýnda baþarýsýz olanlara bir yýl içinde verilecek süre.
+En az 3 yýl: Maarif müfettiþ yardýmcýlýðýna atananlarýn sýnava girmesi için görev yapmasý gereken süre
+%20: Bakanlýkça bu oran ve üstünde engeli olanlarýn mali bütçesi karþýlanýr.
+15 gün: Özel kurum açma izni valilikçe reddedilince kurucunun bakanlýða itiraz edebileceði süre
+15 gün: Bakanlýða gelen itirazýn bakanlýkça karara baðlanacaðý süre.
+1 eylül: Bu tarihten sonra verilen kurum açma izinleri bir sonraki eðitim öðretim yýlý için geçerlidir.
+5 misli: Yabancý okullar bakanlýðýn izni ile kapasitelerini geniþletebilecekleri en fazla miktar.
+En çok 1 misli: Yabancý okullar bina, öðrenci, donaným kapasitesini en çok 1 kat artýrabilir veya yenileyebilir.
+En az 100 metre: Okul binalarýnda kapýdan kapýya en az 100 metre meyhane, kahvehane, kýraathane, bar, elektronik oyun merkezi uzak olmasý aranýr. Özel eðitim kurumlan ile özel öðretim kurumlarýnda bu zorunluluk aranmaz. Turizmin yoðun olduðu yerlerde okullarýn tatil olduðu 	dönemlerde de uzaklýk þartý aranmaz.
+3 ay: Kurucunun okulu kapatma istediðini yazýlý olarak bakanlýða bildirmekte zorunda olduðu süre
+5 yýl: Belirtilen þartlara uygun okul kapatmayanlarýn tekrar kurum açma ya da kuruma ortak olmasý için geçmesi gereken süre.
+1/3: Yeni kurulan kuruluþun mevcut ders saati sayýsýnýn öðretmen, uzman öðretici ve usta öðreticiler tarafýndan okutulmasý gereken oran.
+2/3: Kurumun kuruluþundan 3 yýl sonra mevcut ders saati sayýsýnýn öðretmen, uzman öðretici ve usta öðreticiler tarafýndan okutulmasý gereken oran.
+Haftalýk ders saati sayýsýnýn yarýsý: Ýhtiyaç halinde resmi kuruluþlardaki öðretmenlere verilebilecek ders süresi
+10 saat: öðretmen niteliðini taþýyan diðer devlet memurlarýna haftada verilecek en çok ders saati sayýsý.
+2 katý: özel okullarda ek ders ücreti normal okullarýnkinden az olmayacaðý gibi iki katýndan da fazla olamaz.
+1/4-1/2: özel kurumiarda çalýþanlara kademe ilerlemesi cezasý yerine verilebilecek aylýktan kesifte oranlarý. Tekrarý halinde göreve son verilir.
+1 ay içinde: Yabancýlar tarafýndan açýlan okullarda Türk müdür baþyardýmcýsý olarak kiþinin yapýlacaðý süre, bu sürede yapýlmazsa þartý taþýyan öðretmenlerden birisini valilik seçer ve iþe baþlatýr.
+2 defa: Öðretmen, Uzman öðretici, yönetici ve usta öðreticinin görevinin izin veren makam tarafýndan iptal edilmesini gerektirecek baþarýsýz teftiþ sayýsý.
+Ocak - Mayýs aylarý: Öðrenim ücreti ve diðer ücretlerin kurumlarca belirleneceði tarih aralýklarý.
+%3: Özel okullarda ücretsiz okutulacak en az öðrenci sayýsý (%10 a kadar bakanlýk çýkarabilir.)
+% 30: özel okullarda yabancý uyruklu öðrencilerin toplam öðrenci sayýsýndan hareketle aþamayacaðý oran
+3 ay: özel okulun kurum açma þartlarýný kaybetmesi halinde alacaðý en fazla kapatma cezasý süresi
+15 gün: Mevzuata aykýrý personel çalýþtýrýlmasý halinde en az alacaðý kapatma cezasý süresi.
+2 yýl: Kurum açma izni verilen kurumlarýn verilen yýl süresince kurum açýlmazsa izin iptal edilin
+20 katý: izinsiz eðitim faaliyeti yapan kiþiye verilecek ceza brüt asgari ücretin 20 katý. Devir teslimden kaçýnana da bu görevi savsaklayanlara da ayný para cezasý.
+30 gün: Ýþlemin karþýlýðýnýn dilekçe sahiplerine verilecek cevap süresi
+60 gün: Eðer baþvuru TBMM' ye yapýlmýþsa cevabýn geleceði süre
+30 gün: TBMM dilekçe komisyonuna gelen dilekçeye verilecek cevap süresi
+15 gün: istenilen bilgi ya da belge kurumun içindeyse ulaþýlacak süre
+30 gün: Ýstenilen bilgi ya da belge baþka kurumun içindeyse ulaþýlacak süre
+iþ günü: Baþvuru sahibi bu süre zarfýnda ücret ödemezse talebinden vazgeçmiþ sayýlýr.
+15 gün: Bilgi edinme istemi reddedildiðinde kurula itiraz süresi
+30 gün: itiraza cevap verilecek karar süresi
+9 üye: Bilgi edinme kurulunun bakanlýkça seçilen üye sayýsý
+1 defa: Bilgi edinme kurulunun ayda en az toplanma süresi
+4 yýl: Bilgi edinme kurulu üyelerinin görev süresi
+7 gün: Gizli bilgilere izin alýnarak ulaþýlacak süre 
+6 -14 yaþ: Bir çocuk için 5 yaþýný bitirdiði yýlýn eylül ayý sonunda ilköðretim baþiar, 14 yaþýný bitirip 15 yaþýna girdiði öðretim yýlýnýn sonunda da ilköðretim biter.
+2 öðretim yýlý: Mecburi ilköðretimim bitire bilmesi Ýçim verilen süre yine bitiremiyorsa kaydý silinir.
+Ders yýlý baþlamadan 1 hafta önceki tarihten son sýnýf sýnavlarýnýn bittiði tarih: Bir öðretim yýlý.
+15 gün önce: Ders yýlý baþlamadan Muhtarla Okul müdürünün iþbirliði yapýp 3 nüsha çizelge hazýrlayacaðý süre.
+40 öðrenci: Birleþtirilmiþ sýnýflar dahil öðretmene düþen en fazla öðrenci sayýsý.
+15 gün: ölü, evlenme, yaralanma vb. durumlarda okul idaresinin verebileceði izin süresi.
+3 gün: Alýnan tedbirlere raðmen aile çocuðunu okula göndermiyorsa, okul idaresi Köylerde muhtarlýða, diðer yerlerde mülki amirliðe hemen bildirir. Eðer 3 gün içinde durum deðiþmiyorsa para cezasýna tabi tutulur.
+15 tl: Bu 3 günden sonra verilecek gün baþýna ceza miktarý.
+500 tl: 15 tl lik cezaya raðmen hala göndermiyorsa verilecek idari para cezasý tutarý.
+100 tl: Aile okul idaresi sorularýna yanlýþ beyanda bulunursa verilecek ceza
+400-1000 tl arasý: Okula gitmeyip baþka yerde çalýþtýrýlýyorsa, meb'in açýlýþýna izin verdiði yerler haricinde bir yerde eðitim görüyorsa aileye verilecek ceza.
+Bu para cezalarý Mahalli Mülki Amir tarafýndan verilir.
+50 dekar: Okula gelir saðlamak amacýyla seçilen toprak bu miktardan fazla olamaz.
+En az 2 dekar - en fazla 10 dekar: Okul uygulama bahçesi büyüklüðü
+500m2 - 1000m2 arasý: Öðretmen lojmanlarýnýn yapýlacaðý arazi boyutu.
+%3: Ýlköðretime ait gelir kaynaklarýndan Devlet gelirlerinden alýnacak yüzde
+%20: Ýlköðretime ait gelir kaynaklarýndan özel idare bütçesinin alýnacak yüzdesi
+%10: Ýlköðretime ait gelir kaynaklarýndan Köy bütçesinden alýnacak yüzde 9) Orta Öðretim Kurumlan Yönetmeliði
+40 dk: Ders saati süresi.
+10 dk az: Ders arasý dinlenme süreleri en alt sýnýrý.
+45 dk az: öðle arasý süresi an alt sýnýrý.
+60 dk: Staj çalýþmalarýnda ders saati süresi. Saat 22.00 geçemez.
+12 öðrenci: Derslerini birinci yabancý dil ile okutulmasý için en az tercih etmesi gereken öðrenci sayýsý
+10 öðrenci: Ýstenilen seçmeli dersin açýlabilmesi için o dersi en az tercih etmesi gereken öðrenci sayýsý.
+30 öðrenci: Fen, Sosyal bilimler ve spor liselerinde bir sýnýf da olmasý gereken en fazla öðrenci miktarý. Ancak sýnýfta kalanlarla 36 olabilir.
+34 öðrenci: Diðer liselerde sýnýf mevcudunun en üst sýnýrý. Ancak sýnýfta kalanlarla 40 olabilir.
+6 ay: Yabancýlarýn kayýt yaptýrabilmek için en az ülkede kalma süresi.
+9. Sýnýf sonu: Alan seçiminin olduðu dönem
+10. Sýnýf sonu: Dal seçiminin olduðu dönem
+10 öðrenci: Bir alanda en az kayýtlý olmasý gereken öðrenci sayýsý.
+8 öðrenci: Bir dalda eðitime baþlanabilmesi için en az kayýtlý olmasý gereken öðrenci sayýsý.
+2/3: Öðrencinin tam gün yok yazýlabilmesi için gelmemesi gereken günlük ders oraný.
+10 gün: Özürsüz devamsýzlýk yapabileceði süre.
+20 gün: Özürlü devamsýzlýk yapabileceði süre.
+60 gün: Özürsüz 10 günü geçmemek þartýyla tam teþekküllü hastaneden alacaðý raporla yapabileceði toplam devamsýzlýk sayýsý.
+5 gün: Devamsýzlýk yaptýðý süreye iliþkin özür belgesi veya velinin beyanýnýn idareye en geç getirilmesi gereken süre.
+20 iþ günü: Zorunlu hallerde özür belgesinin getirilme süresinin idare tarafýndan uzatýlacaðý gün sayýsý.
+6 da 1: Telafi programlarýna bu kadar süre gelmezse kalýr.
+10 sýnýf sonu: Fen, Sosyal bilimler, Anadolu ve Ý.H.L. nakilleri bu süreden sonra sadece kendi aralarýnda olur.
+9 sýnýf: Hazýrlýk sýnýfý bulunmayan okullarýn 9 uncu sýnýflarýndan hazýrlýk sýnýfý bulunan okullarýn 9 uncu sýnýflarýna yeterlilik sýnavýna baðlý olarak içinde bulunulan öðretim yýlýnýn Kasým ayýnýn son iþ gününe kadar nakil ve geçiþ yapýlabilir.
+10 Öðrenci: 9. sýnýflara bu sayýdan az öðrenci kayýt yaptýrýrsa sýnýf açýlmaz.
+70: Anadolu teknik programýna geçiþ için olmasý gereken ortalama puaný en az.
+Son 3 hafta: 1. Ve 2. Dönemde nakil yapýlmayacak süre.
+2 sýnav: Ders saatine bakýlmaksýzýn bir ders için yapýlacak en az sýnav sayýsý
+Ders yýlýnýn son haftasý: Ýþletmede ders gören öðrencilerin uygulama sýnavýna alýnacaðý süre. Bu sürede öðrenci izinli sayýlýr.
+5 gün: Sýnavlara itiraz süresi.
+10 gün: Sýnavlarýn açýklanma süresi.
+50 ortalama: Sýnýf geçmesi için iki dönem ortalamasýnýn olmasý gereken seviye.
+70 ortalama: Sýnýf geçmesi için 1. Dönem ne olursa olsun 2. Dönem ortalamasý bu seviyede olursa sýnýf geçer.
+3 ders: Sýnýfý sorumlu geçebilmesi için kalmasý gereken en fazla ders sayýsý
+6 ders: Bu kadar dersten baþarýsýz olan sýnýf tekrarý yapar.
+5 gün önce: Hazýrlýk sýnýfýnda öðrenim görmeden ayný okulun 9 uncu sýnýfýna doðrudan geçmek isteyen öðrencilerin velilerinin yeterlilik sýnavýndan önce dilekçe vermesi gereken süre.
+Ekim ayýnýn ilk haftasý: Yeterlilik sýnavýnýn yapýlacaðý tarih.
+70 puan: Hazýrlýk sýnýfýný yeterlilik sýnavýyla geçmek isteyen öðrencinin Ýngilizce ve Türkçe derslerinden almasý gereken en az puan.
+30 dk önce - 30 dk sonra: Nöbet baþlama ve bitiþ süreleri. 15 dk dan az olmamak kaydýyla kýsaltýlabilir.
+15 dk önce-15 dk sonra: Ortaöðretim kurumlarýnda anasýnýflarýnda görev yapan okul öncesi öðretmenleri nöbetçi olduklarý gün bu sürede okulda bulunur, okul öncesi öðrencilerinin olduðu alanda kendi devresinde ve etkinlik saatleri dýþýnda nöbet tutar.
+3 ay: Doðuma yakýn nöbet verilemeyecek süre (24. Haftadan itibaren)
+1 yýl: doðum sonrasý nöbet verilemeyecek süre
+20 yýl: Kadýn öðretmenlerden nöbetçi olmak istemeyenlerin yapmasý gereken hizmet süresi
+25 yýl. Erkek öðretmenlerden nöbetçi olmak istemeyenlerin yapmasý gereken hizmet süresi
+100 puan: Her ders yýlý baþýnda öðrenciye verilen davranýþ puaný.
+10 puan: Kýnama cezasý aldýðý taktirde davranýþ puanýndan silinecek puan miktarý.
+20 puan: Okuldan kýsa süreli uzaklaþtýrma cezasý aldýðý taktirde davranýþ puanýndan silinecek puan miktarý.
+40 puan: Okul deðiþtirme cezasý aldýðý taktirde davranýþ puanýndan silinecek puan miktarý.
+80 puan: örgün eðitim dýþýna çýkarma cezasý aldýðý taktirde davranýþ puanýndan silinecek puan miktarý.
+2 iþ günü: öðretmenler kurulu toplantýsýndan sonra zümre öðretmenler kurulunun yapýlmasý gereken süre
+40 iþ günü: Öðrencilerin staj süresi
+5: Fen, sosyal bilimler ve spor liseleri hazýrlýk sýnýfý dahil 9 sýnýfa kayýtlý öðrenci sayýsýnýn geçemeyeceði þube sayýsý
+2: Güzel sanatlar liselerinde hazýrlýk sýnýfý dahil 9 sýnýfa kayýtlý öðrenci sayýsýnýn geçemeyeceði þube sayýsý
+60 gün: Özel eðitim meslek liselerinde bir öðrencinin en fazla yapabileceði devamsýzlýk süresi
+20 gün: Mezuniyet tarihinden sonra diplomanýn soðuk damga vurularak MEM gönderilme süresi.
+5 gün önce: Öðretmenlere toplantýlarýn yazýlý olarak duyurulacaðý süre En az 3 öðretim yýlý: Takdir belgesi alanlara üstün baþarý belgesi verilir.
+36 - 68 aylýk: Anaokulu seviyesi çocuklarýn yaþ aralýklarý
+57 - 68 aylýk: Anasýnýfý seviyesi çocuklarýn yaþ aralýklarý
+36-68 aylýk: Mesleki ve teknik ortaöðretim kurumlarýnda eylül ayný sonu itibariyle eðitim yapabilecek çocuklarýn yaþ aralýklarý
+180 iþ günü: Ders yýlýnýn az olamayacaðý süre
+50 dk aralýksýz 6 etkinlik saati: Okul Öncesi, kurumlarda yapýlmasý gereken etkinlik süresi
+10 dan az 20 den fazla: Anaokulu çocuk sayýsýnýn olmasý gereken miktar aralýðý.
+Kayýtlar tamamlanmadýysa fiziki imkan varsa anaokulu ve uygulama sýnýflarýna 36-56 aylýk, anasýnýfýna 45-56 aylýk çocuklar da kaydedilebilir.
+2 ay: Mülki amirlikçe onaylanacak program kapsamýnda bu süreyi geçmeyecek þekilde yal aylarýndý eðitim yapýlabilir.
+40 dk: Ders saati süresi
+15 dk: En az teneffüs süresi
+10 dk: Ýkili eðitim yapýlan okulda en az teneffüs süresi.
+40 - 90 dk: Öðle arþýnýn süre aralýðý
+30 dk: Ýkili öðretimin yapýldýðý okullarda çýkýþ ve giriþlerin arasýndaki en fazla olabilecek süre
+2 ders saati: Yatýlý okullarda her gün etüt için ayrýlacak süre
+Mart ayý: Bu ayda Öðrencilerin, yerleþtirilecekleri okullarý belirlemek üzere il/ilçe millî eðitim müdürünün görevlendireceði müdür yardýmcýsý veya þube müdürünün baþkanlýðýnda, eðitim bölgesindeki okullarýn özelliklerine göre seçilen en çok beþ okul müdüründen öðrenci yerleþtirme komisyonu oluþturulur.
+Temmuz ayýnýn ilk iþ günü: Okul öncesi ve Ýlköðretimde yeni kayýtlarýn baþladýðý tarih.
+66,67,68 ay: ilkokula hazýr olduðu düþünülen çocuklardan velilerin yazýlý istekleri ile ilkokula kayýt edilecek öðrencinin yaþ aralýðý
+69,70,71 aylýk: Veli dilekçesi ile ilkokula kaydý 1 yýl ertelenebilecek öðrenci yaþý.
+69-71: Ýlkokula kaydý bir yýl ertelenen ve bir önceki yýl okul öncesi eðitim almamýþlara okul öncesi eðitimde öncelik verilir.
+3 ay: Nüfusa yaþýndan büyük veya küçük yazýlanlarýn düzeltilmesi için veliye verilen süre. Veli yapmazsa okul idaresi il/ilçe mem e bildirir.
+15 iþ günü: Ders yýlýnýn baþýnda baþlayan nakil iþlemi, ders yýlý sonuna 15 iþ günü kalýnca nakil yapýlmaz.
+5 gün: Ýller arasý nakillerde öðrenciye verilecek süre devamsýzlýktan sayýlmaz.
+Eylül ayýnýn ilk iþ günü: 30 öðrencinin altýnda kalan sýnýflarýn boþ kontenjanlarýnýn e-okul sistemine girilme süresi
+10 gün: Okul öncesinde özürsüz olarak bu kadar devamsýzlýk yapýlýrsa okul müdürlüðünce veli yazý ile uyarýlýr.
+30 gün: Uyarýya raðmen özürsüz olarak hala gelmediði taktirde kaydýnýn silinebileceði gün sayýsý
+2 aylýk ücret: Üst üste ödemediði taktirde kaydýnýn siline bileceði aylýk sayýsý
+15 gün: öðrencinin geçerli mazeretle ilköðretimde alabileceði izin günü sayýsý
+En az 1 ay: Yibonun öðrenci alacaðý yerleþim yeri ve sayýsýnýn kayýtlar baþlamadan komisyonla belirlenme süresi.
+2 eðitim öðretim yýlý: Mecburi ilköðretim çaðýna çýktýðý halde eðitimini tamamlayamayan öðrencilere verilecek en çok süre.
+0 - 44,99 Puan: Baþarýsýz
+45 ve üzeri: Baþarýlý
+2 sýnav: 4-5-6-7-S. Sýnýflarda her dersten bir dönemde yapýlacak sýnav sayýsý
+1 hafta: Sýnav tarihlerinin sýnavdan önce duyurulmasý gereken süre
+2 sýnav: Bir günde yapýlabilecek en fazla sýnav
+1 ders saati: Yapýlacak sýnav bir ders saatini geçemez.
+2: Her dönemde haftalýk ders saati 2 ve daha az olanlara verilebilecek ders etkinliklerine katýlým puaný
+S: Her dönemde haftalýk ders saati sayýsý 2 den fazla olanlara verilebilecek ders etkinliklerine katýlým puaný
+1 ay önce: Ortak sýnavlarýn duyurulma tarihi
+1 eðitim ve öðretim yýlý: Sýnav kaðýtlarýnýn saklanma süresi, puanlama ölçekleri de 1 yýl saklanýr.
+5 gün önce: Okul bitmeden çýkartýlan puan çizelgelerinin ilgili öðretmenlerle kontrol edilerek imzalanmasý gereken süre
+1 defa: Velinin yazýlý talebi üzerine sýnýf tekrarý yaptýrýlabilecek süresi
+20 gün devamsýzlýk: Sýnýf geçmesi Þube Öðretmenler Kuruluna kalan öðrencinin devamsýzlýk süresi
+45 den az: Herhangi bir dersten bu puaný alýrsa sýnýf geçmesi Þube Öðretmenler Kuruluna kalýr.
+1 dönem: Devam etmediði taktirde sýnýfta kalacaðý süre
+10 iþ günü: Sýnavlarýn duyurulma sýnýrý.
+1 ay içinde: Ýlkokul 1-2-3. Sýnýflarda sýnýf yükseltme sýnavý velinin yazýlý talebi ve sýnýf öðretmeninin önerisi ile ders yýlýnýn baþladýðý tarihten itibaren yapýlacak süre.
+En az 5 gün önce: Öðretmenlere toplantýlarýn ve görevlendirmelerin yazýlý olarak duyurulacaðý süre
+70 - 84.99: puan: Ýlköðretim 4. Sýnýftan itibaren Türkçe dersi 55, diðer dersleri 45'in altýnda oynadýðý zaman teþekkür belgesi verilecek not aralýðý
+85 -100 puan: Ýlköðretim 4. Sýnýftan itibaren Türkçe dersi 55, diðer dersleri 45'in altýnda olmadýðý zaman takdir belgesi verilecek not aralýðý
+1 eðitim öðretim yýlý: Ortaokul 5-6-7. Sýnýf öðrencilerine velisinin yazýlý baþvurusu üzerine hafýzlýk eðitimi için verilebilecek izin süresi
+30 dk önce ~ 30 dk sonra: Nöbet görevi baþlama süreleri
+Boþ geçen ders saati toplamýnýn yarýsý: Boþ geçen dersler için yapýlacak yetiþtirme programý suresi boþ geçen ders saati toplamýnýn yarýsýndan az olamaz.
+5 gün: Öðrenciye verilen yaptýrým kararýna karþý velinin itiraz süresi
+Eylül ayý: Okuma yazma bilmeyip ilkokul çaðýnda öðrencilere birinci sýnýf öðrenimlerini baþarýyla tamamlamalarý halinde bu ayda yapýlacak sýnavla yaþýna uygun sýnýfa geçirilir.
+5 iþ günü: Davranýþlarý deðerlendirme kuruluna gelen görüþ ve önerileri en geç inceleyip deðerlendirme süresi.
+1 hafta: Ýlçe öðrenci davranýþlarýný deðerlendirme kurulunda görüþülmesi gereken dosyalarýn ulaþtýrUma süresi
+En az 5 gün önce: Öðretmenler kurulu toplantý gündemi ve günü imza karþýlýðý duyuru yapýlacak en az süre.
+Birinci dönemin ikinci ayý, ikinci dönemin birinci veya ikinci haftasý ve ders yýlý sonu: ÞÖK yapýlacak zamanlar.
+1 hafta önce: Mesleki çalýþma programý öðretmenlere ilgili sürede duyurulur.
+1 tane: Bir öðrencinin kayýtlý olmasý gereken en az kulüp sayýsý
+7 gün önce: Gezi planlannýn idareye en geç verilmesi gereken süre
+40 öðrenci: Bu öðrenci sayýsýna kadar sosyal etkinliklerde 1 yönetici ve en fazla 2 sorumlu öðretmen verilir.
+10 öðrenci: Özel eðitime ihtiyacý olan bu kadar öðrenciye kadar en az 2 Öðretmen
+1 öðretmen: Okul öncesi için her grup için verilmesi gereken en az öðretmen sayýsý.
+Eylül ayý: Sosyal etkinliklerin planlandýðý tarih
+Ekim ayý: Sosyal etkinliklerin uygulanmaya baþladýðý tarih
+3 gün önce: Ýlçe dýþýnda yapýlacak etkinliklerde resmi yazý ile il/ilçe mem bilgilendirilmesi gereken süre.
+Sosyal etkinlikler kurulu: 3 öðretmen, 2 öðrenci, 1 veli ve müdür& müdür yrd baþkanlýðýnda oluþturulur.
+Eser inceleme ve seçme kurulu: 2 öðretmen,sosyal etkinlik öðrenci kulübü danýþman öðretmeni, temsilci öðrenci, müdür & müdür yrd baþkanlýðýnda
+2 yýl süre: Eðitim kurumlarýnda çýkarýlacak yayýnlar ilgili dosyada saklanýr.
+30 saat: Rehber öðretmenin haftalýk çalýþma saati.
+En az 3 defa: Ram rehber öðretmenler ile dönem baþý ve dönem sonu otmak üzere toplantý yapar.
+Toplantýlarýn yapýldýg, ay içinde; Haziran ve ey|ü, ayýnda yap,iacak toplantýda alýnan kararlarýnil
+aracýlýðýyla bakanlýða gönderilme süresi
+2 kez: il danýþma komisyonunun yýlda toplanma sayýsý
+Eylül — Haziran: Ýl danýþma komisyonunun toplanacaðý aylar
+3 danýþman: Ýl danýþma komisyonunun toplantýlarýna katýlacak Psikolojik danýþman sayýsý.
+3 kez: Rehberlik ve Psikolojik Danýþma Hizmetleri Yürütme Komisyonu yýlda toplanma süresi.
+1 ve 2 dönem ilk ay, ders yýlýnýn tamamlandýðý son ay: Rehberlik ve Psikolojik Danýþma Hizmetleri Yürütme Komisyonun toplanacaðý tarihler.
+En geç bir ay içinde: Rehberlik hizmetleri yürütme komisyonu öðretmenler kurulu toplantýsýnýn yapýldýðý tarihten itibaren ilgili sürede toplanýlýr.
+Eylül ayýnýn son haftasý: Yýllýk planlanan kursun baþlama tarihi
+Temmuz ayýnýn ilk haftasý: Yaz dönemi kurslarý baþlama tarihi
+1 ay sonrasýna kadar: Açýlan bir kursa kurs açýldýktan bir ay sonrasýna kadar öðrenci kaydý yapýlabilir.
+22:00 'a kadar: Ders saatleri dýþýnda derslerin sürdürülebileceði zaman 1 Ders süresi: Kurslarda 40 dk
+2 saatten az - 8 saatten çok: Her bir kurs günü bu koþullara uygun haftaya daðýtýlýr.
+2 saat: Ayný dersten bir güne koyulabilecek en fazla ders saati. Ortaöðretim hariç.
+Eylül: Yýllýk düzenlenen kurslar 5-11. Sýnýflardaki öðrenciler için eylülde baþlayacak þekilde planlanýr.
+Temmuz: Yýllýk düzenlenen kurslar 12. Sýnýf ve mezunlar için temmuz ayýnda baþlayacak þekilde planlanýr.
+4 haftadan az 8 haftadan fazla olamaz: Yaz döneminde açýlan kurs süresi
+16 haftadan az 36 haftadan fazla olamaz: Yýllýk açýlan kurs süresi
+10'dan az 20'den fazla: Kurslarda sýnýf mevcudu aralýðý.
+24 öðrenci: Tek grupiu kurs programlarýnda sýnýf kapasitesinin en fazla olacaðý sayý.
+En az 5 öðrenci: Yeterli miktara ulaþýlamazsa 5 öðrenciden az olmamak kaydýyla grup oluþturulabilir. lO'un altýna düþmesi: Kursun birleþtirilmesi ve kapatýlmasýna milli eðitim müdürlüðünce karar verilir.
+1/5: öðrencinin kursa azami devam süresi, (özürsüz olarak 1/5 i aþarsa öðrencinin kaydý silinir,)
+Þube sayýsý 5 ve üzerindeyse: Nöbetçi Öðretmen görevlendirilir.
+Her 10 þubeye: 1 müdür yrd görevlendirilir.
+Aðustos sonu: Kurs deðerlendirmeleri il raporlarý bakanlýða gönderilir.
+5 öðrenci: Ayný yerleþim biriminde birden fazla kurs merkezinin bulunmamasý, öðrencilerin taþýnma Ýmkânýnýn olmamasý gibi sebeplerle sýnýf mevcudunun 10'a ulaþamamasý durumunda millî eðitim müdürlüðünün onayý ile sýnýf mevcudunun azami sayýsý
+En az 1 yýl fiilen çalýþmak: Adaylýk kaldýrma sýnavýna girebilmek için gerekli süre
+60 iþ günü: Performans deðerlendirilmesi bir dönemde en az 60 iþ günü fiilen öðretmenlik yapan aday öðretmenler hk. Uygulanýr.
+5 iþ günü: Performans deðerlendirme notuna teblið tarihinden itibaren ilgili sürede il milli eðitim müdürlüðüne itiraz edilebilir.
+10 gün: Performans deðerlendirme itiraz komisyonu 10 Ýþ günü Ýçinde oy çokluðu ile karar alýr.
+5 iþ günü: Maarif müfettiþi aday öðretmen ile ilgili doldurduðu 3 nüsha formun bir örneðini milli eðitim kurumu müdürlüðüne teslim eder.
+5 iþ günü: Aday öðretmen göreve baþladýktan sonraki 5 iþ günü içinde danýþman öðretmen görevlendirilir.
+15 iþ günü: Yazýlý sýnav sonuçlarý yapýldýktan itibaren en geç 15 iþ günü içinde internet sitesinde duyurulur.
+60 ve üzeri: Yazýlý sýnavda baþarýlý sayýlmak için alýnabilecek minimum puan
+5 gün: Yazýlý sýnav sonuçlarýna itiraz 5 gün içinde yapýlýr, 10 gün içinde deðerlendirilip sonuca varýlýr.
