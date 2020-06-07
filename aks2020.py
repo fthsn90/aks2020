@@ -22,7 +22,7 @@ def islem():
     while True:
         if looping == START:
             toast = ToastNotifier()
-            toast.show_toast("Bilgi",oku[random.randint(0,len(oku))],duration=int(txt.get()),icon_path=r"meb.ico")
+            toast.show_toast("Bilgi",oku[random.randint(0,len(oku))],duration=int(txt.get()),icon_path=r"pics/meb.ico")
             sleep(7)
         if looping == EXIT:
             break
@@ -42,12 +42,12 @@ def dur():
 looping = STOP
 
 root = Tk()
-root.title("AKS/2020-Sayısal Veriler")
+root.title("AKS/2020-Sayısal İfadeler")
 root.geometry("450x200+500+190")
 
-root.iconphoto(False, ImageTk.PhotoImage(Image.open(r"meb.png").resize((86, 30), Image.ANTIALIAS)))
+root.iconphoto(False, ImageTk.PhotoImage(Image.open(r"pics/meb.png").resize((86, 30), Image.ANTIALIAS)))
 frm = Frame()
-lbl = Label(frm,text="AKS-Sayısal Veriler Uyarı Programı")
+lbl = Label(frm,text="AKS-Sayısal İfadeler Uyarı Programı")
 lbl.grid(pady=2)
 lbl2 = Label(frm,text="Uyarı aralığını giriniz(Saniye)")
 lbl2.grid(pady=2)
