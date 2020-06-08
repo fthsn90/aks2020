@@ -9,8 +9,6 @@ from time import sleep
 import random
 import win32gui
 import win32console
-from pystray import MenuItem as item
-import pystray
 START = 1
 STOP  = 0
 EXIT  = -1
@@ -38,20 +36,7 @@ def dur():
     global looping
 
     looping = STOP
-def cikis(icon,item):
-    icon.stop()
-    root.destroy()
 
-def goster(icon,item):
-    icon.stop()
-    root.after(0,root.deiconify)
-
-def gizle():
-    root.withdraw()
-    image = Image.open("ikono.ico")
-    menu = (item('Çıkış', cikis), item('Göster', goster))
-    icon = pystray.Icon("name", image, "title", menu)
-    icon.run()
 # --- main ---
 
 looping = STOP
@@ -74,10 +59,10 @@ btn = Button(frm,text="BAŞLAT",command=basla)
 btn.grid(pady=2)
 btn2 = Button(frm,text="DURDUR",command=dur)
 btn2.grid(pady=2)
-btn3 = Button(frm,text="PROGRAMI GİZLE",command=gizle)
+btn3 = Button(frm,text="PROGRAMI GİZLE",command=lambda:root.withdraw())
 btn3.grid(pady=2)
 frm.pack()
-statusbar = Label(root,text="#fthsn",bd=1,relief=SUNKEN,anchor=W)
+statusbar = Label(root,text="#Dikkat! Programı gizlerseniz uyarılar bilgisayar tekrar başlatılıncaya kadar gelecektir.",bd=1,relief=SUNKEN,anchor=W)
 statusbar.pack(side=BOTTOM,fill=X)
 thread = threading.Thread(target=islem)
 thread.daemon = True
